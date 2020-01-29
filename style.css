@@ -1,0 +1,28 @@
+
+p {
+  color:white;
+  text-align:center;
+  font-size:20px;
+  font-family:monospace;
+}
+
+.t {
+  color:white;
+  font-size:20px;
+  font-family:monospace;
+}
+
+.pix {
+  width:200px;
+  height:200px;
+  align: middle;
+  border-width: 10px;
+  border-color: #FFFFFF;
+  border-color: #FFFFFF;
+  border:"white";
+}
+
+.content {
+  display:block;
+
+}
